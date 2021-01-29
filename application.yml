@@ -1,0 +1,6 @@
+spring:
+  devtools:
+    restart:
+      enabled: true
+application:
+  description: Config Server Dev Application - Remote Config
