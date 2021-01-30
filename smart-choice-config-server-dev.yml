@@ -3,4 +3,4 @@ spring:
     restart:
       enabled: true
 application:
-  description: Config Server Dev Application - Remote Config
+  description: Config Server Dev Application - Remote Configurations
